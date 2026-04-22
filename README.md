@@ -6,7 +6,7 @@
 
 在校内赛中，参赛队伍需制作具备水弹发射能力的小车，参与射击对抗赛。
 
-> 校内赛混剪；https://www.bilibili.com/video/BV1rbUkBVELW
+> 校内赛混剪：https://www.bilibili.com/video/BV1rbUkBVELW
 >
 > 校内赛录制（带解说）：https://www.bilibili.com/video/BV1k1C9BYEXR
 
