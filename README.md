@@ -27,12 +27,12 @@
 裁判系统由**南京邮电大学Potential战队**自行设计研发，包括以下三个部分：
 
 - 装甲板（带**击打检测**和**数据回传**功能）
-  - 装甲板程序：https://github.com/njupt-robomasters/SmallMasterArmor
+  - 装甲板程序：[code/armor](code/armor)
 
 - 图传模块（某宝WiFi图传改外壳）
 - 客户端软件（包括**选手端**和**裁判端**）
-  - 选手端：https://github.com/njupt-robomasters/SmallMasterClient
-  - 裁判端：https://github.com/njupt-robomasters/SmallMasterReferee
+  - 选手端：[code/client](code/client)
+  - 裁判端：[code/referee](code/referee)
 
 
 装甲板：
